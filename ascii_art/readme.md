@@ -1,6 +1,6 @@
 # Ascii_art 
 
- Turn image into ascii charaters or use camera in command line shell with python .
+Use Webcam on command line or Turn image into ascii charaters or use camera in command line shell with python .
 
  - Used Libraries  
 
